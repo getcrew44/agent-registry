@@ -5,7 +5,7 @@
     {
       "id": "karpathy-skills-agent",
       "name": "Karpathy Skills",
-      "description": "A Crew44 agent packaged from Andrej Karpathy-style skills for writing and reasoning.",
+      "description": "Writing and reasoning workflows inspired by Andrej Karpathy's practical skill patterns.",
       "author": "multica-ai",
       "repo_url": "https://github.com/crew44-community/karpathy-skills-agent",
       "tags": [
@@ -20,7 +20,7 @@
     {
       "id": "mattpocock-skills-agent",
       "name": "Matt Pocock Skills",
-      "description": "A Crew44 agent packaged from Matt Pocock's collection of Claude skills.",
+      "description": "TypeScript-focused Claude skill workflows from Matt Pocock's collection.",
       "author": "mattpocock",
       "repo_url": "https://github.com/crew44-community/mattpocock-skills-agent",
       "tags": [
