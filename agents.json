@@ -1,16 +1,17 @@
 {
   "schema_version": "crew44.agent-registry.v1",
-  "updated_at": "2026-06-01T00:00:00Z",
+  "updated_at": "2026-06-01T12:00:00Z",
   "agents": [
     {
       "id": "karpathy-skills-agent",
       "name": "Karpathy Skills",
-      "description": "Writing and reasoning workflows inspired by Andrej Karpathy's practical skill patterns.",
+      "description": "A coding-discipline agent based on Andrej Karpathy's observations of how LLMs fail at code. Enforces four principles — think before coding, simplicity first, surgical changes, and goal-driven execution — to keep diffs minimal, surface assumptions and tradeoffs, and avoid overengineering.",
       "author": "multica-ai",
       "repo_url": "https://github.com/crew44-community/karpathy-skills-agent",
       "tags": [
-        "writing",
-        "reasoning"
+        "coding",
+        "code-review",
+        "best-practices"
       ],
       "icon": {
         "initial": "K",
@@ -20,11 +21,12 @@
     {
       "id": "mattpocock-skills-agent",
       "name": "Matt Pocock Skills",
-      "description": "TypeScript-focused Claude skill workflows from Matt Pocock's collection.",
+      "description": "A real-engineering agent bundling Matt Pocock's everyday skills — alignment grilling, TDD, bug diagnosis, PRD and issue authoring, architecture cleanup, and a shared domain language — for shipping production software with coding agents instead of vibe coding.",
       "author": "mattpocock",
       "repo_url": "https://github.com/crew44-community/mattpocock-skills-agent",
       "tags": [
-        "skills",
+        "engineering",
+        "tdd",
         "typescript"
       ],
       "icon": {
