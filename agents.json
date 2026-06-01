@@ -1,0 +1,36 @@
+{
+  "schema_version": "crew44.agent-registry.v1",
+  "updated_at": "2026-06-01T00:00:00Z",
+  "agents": [
+    {
+      "id": "karpathy-skills-agent",
+      "name": "Karpathy Skills",
+      "description": "A Crew44 agent packaged from Andrej Karpathy-style skills for writing and reasoning.",
+      "author": "multica-ai",
+      "repo_url": "https://github.com/crew44-community/karpathy-skills-agent",
+      "tags": [
+        "writing",
+        "reasoning"
+      ],
+      "icon": {
+        "initial": "K",
+        "color": "#6366f1"
+      }
+    },
+    {
+      "id": "mattpocock-skills-agent",
+      "name": "Matt Pocock Skills",
+      "description": "A Crew44 agent packaged from Matt Pocock's collection of Claude skills.",
+      "author": "mattpocock",
+      "repo_url": "https://github.com/crew44-community/mattpocock-skills-agent",
+      "tags": [
+        "skills",
+        "typescript"
+      ],
+      "icon": {
+        "initial": "M",
+        "color": "#3178c6"
+      }
+    }
+  ]
+}
