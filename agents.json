@@ -1,6 +1,6 @@
 {
   "schema_version": "crew44.agent-registry.v1",
-  "updated_at": "2026-06-01T12:00:00Z",
+  "updated_at": "2026-06-02T08:10:29Z",
   "agents": [
     {
       "id": "karpathy-skills-agent",
@@ -16,6 +16,23 @@
       "icon": {
         "initial": "K",
         "color": "#6366f1"
+      }
+    },
+    {
+      "id": "marketing-skills-by-corey-haines",
+      "name": "Marketing Skills by Corey Haines",
+      "description": "A library of 43 specialist marketing skills by Corey Haines — conversion optimization, copywriting, SEO, paid ads, ad creative, analytics, lifecycle, retention, pricing, sales enablement, and go-to-market. Grounds every task in a shared product/audience/positioning context document, then applies the matching framework to produce shippable marketing deliverables.",
+      "author": "Corey Haines",
+      "repo_url": "https://github.com/crew44-community/marketing-skills-by-corey-haines",
+      "tags": [
+        "marketing",
+        "seo",
+        "copywriting",
+        "conversion",
+        "growth"
+      ],
+      "icon": {
+        "initial": "M"
       }
     },
     {
