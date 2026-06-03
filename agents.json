@@ -65,7 +65,8 @@
         "chemistry"
       ],
       "icon": {
-        "initial": "S"
+        "initial": "S",
+        "color": "#10b981"
       }
     }
   ]
