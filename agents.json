@@ -3,6 +3,24 @@
   "updated_at": "2026-06-03T03:33:58Z",
   "agents": [
     {
+      "id": "engineering-skills-by-addy-osmani",
+      "name": "Engineering Skills by Addy Osmani",
+      "description": "Addy Osmani's production-grade engineering skills for AI coding agents — a full development lifecycle (spec, plan, build, test, review, simplify, ship) plus API and interface design, frontend engineering, debugging and error recovery, performance optimization, security hardening, and git workflow. Encodes the senior-engineer workflows and quality gates that keep agents shipping consistently.",
+      "author": "Addy Osmani",
+      "repo_url": "https://github.com/crew44-community/engineering-skills-by-addy-osmani",
+      "tags": [
+        "engineering",
+        "code-review",
+        "testing",
+        "performance",
+        "frontend"
+      ],
+      "icon": {
+        "initial": "E",
+        "color": "#2563eb"
+      }
+    },
+    {
       "id": "karpathy-skills-agent",
       "name": "Karpathy Skills",
       "description": "A coding-discipline agent based on Andrej Karpathy's observations of how LLMs fail at code. Enforces four principles — think before coding, simplicity first, surgical changes, and goal-driven execution — to keep diffs minimal, surface assumptions and tradeoffs, and avoid overengineering.",
@@ -67,6 +85,21 @@
       "icon": {
         "initial": "P",
         "color": "#8b5cf6"
+      "id": "scientific-skills-by-k-dense",
+      "name": "Scientific Skills by K-Dense",
+      "description": "K-Dense's library of 140+ scientific and research skills that turn an AI agent into a research assistant — bioinformatics and genomics, cheminformatics and drug discovery, proteomics, clinical and precision medicine, medical imaging, materials science, physics and astronomy, and scientific machine learning — with curated library APIs, 100+ databases, and worked examples for reproducible multi-step research workflows.",
+      "author": "K-Dense",
+      "repo_url": "https://github.com/crew44-community/scientific-skills-by-k-dense",
+      "tags": [
+        "science",
+        "bioinformatics",
+        "research",
+        "data-analysis",
+        "chemistry"
+      ],
+      "icon": {
+        "initial": "S",
+        "color": "#10b981"
       }
     }
   ]
