@@ -16,7 +16,8 @@
         "frontend"
       ],
       "icon": {
-        "initial": "E"
+        "initial": "E",
+        "color": "#2563eb"
       }
     },
     {
