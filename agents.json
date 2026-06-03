@@ -65,7 +65,8 @@
         "prioritization"
       ],
       "icon": {
-        "initial": "P"
+        "initial": "P",
+        "color": "#8b5cf6"
       }
     }
   ]
