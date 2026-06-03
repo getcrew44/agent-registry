@@ -1,6 +1,6 @@
 {
   "schema_version": "crew44.agent-registry.v1",
-  "updated_at": "2026-06-03T03:33:53Z",
+  "updated_at": "2026-06-03T03:33:58Z",
   "agents": [
     {
       "id": "engineering-skills-by-addy-osmani",
@@ -70,6 +70,21 @@
       }
     },
     {
+      "id": "product-management-skills",
+      "name": "Product Management Skills",
+      "description": "A marketplace of 65 product-management skills spanning discovery, strategy, execution, launch, and growth — assumption mapping, prioritization, PRDs and user stories, positioning and market sizing, metrics and north-star, A/B and cohort analysis, pricing and growth loops. Encodes proven PM frameworks (Torres, Cagan, Savoia) as guided step-by-step workflows for structured product decisions.",
+      "author": "phuryn",
+      "repo_url": "https://github.com/crew44-community/product-management-skills",
+      "tags": [
+        "product-management",
+        "discovery",
+        "strategy",
+        "roadmap",
+        "prioritization"
+      ],
+      "icon": {
+        "initial": "P",
+        "color": "#8b5cf6"
       "id": "scientific-skills-by-k-dense",
       "name": "Scientific Skills by K-Dense",
       "description": "K-Dense's library of 140+ scientific and research skills that turn an AI agent into a research assistant — bioinformatics and genomics, cheminformatics and drug discovery, proteomics, clinical and precision medicine, medical imaging, materials science, physics and astronomy, and scientific machine learning — with curated library APIs, 100+ databases, and worked examples for reproducible multi-step research workflows.",
