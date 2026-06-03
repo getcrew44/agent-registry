@@ -1,6 +1,6 @@
 {
   "schema_version": "crew44.agent-registry.v1",
-  "updated_at": "2026-06-02T08:10:29Z",
+  "updated_at": "2026-06-03T03:33:58Z",
   "agents": [
     {
       "id": "karpathy-skills-agent",
@@ -49,6 +49,23 @@
       "icon": {
         "initial": "M",
         "color": "#3178c6"
+      }
+    },
+    {
+      "id": "product-management-skills",
+      "name": "Product Management Skills",
+      "description": "A marketplace of 65 product-management skills spanning discovery, strategy, execution, launch, and growth — assumption mapping, prioritization, PRDs and user stories, positioning and market sizing, metrics and north-star, A/B and cohort analysis, pricing and growth loops. Encodes proven PM frameworks (Torres, Cagan, Savoia) as guided step-by-step workflows for structured product decisions.",
+      "author": "phuryn",
+      "repo_url": "https://github.com/crew44-community/product-management-skills",
+      "tags": [
+        "product-management",
+        "discovery",
+        "strategy",
+        "roadmap",
+        "prioritization"
+      ],
+      "icon": {
+        "initial": "P"
       }
     }
   ]
