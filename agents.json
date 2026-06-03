@@ -4,7 +4,7 @@
   "agents": [
     {
       "id": "engineering-skills-by-addy-osmani",
-      "name": "Engineering Skills by Addy Osmani",
+      "name": "Engineering Agent by Addy Osmani",
       "description": "Addy Osmani's production-grade engineering skills for AI coding agents — a full development lifecycle (spec, plan, build, test, review, simplify, ship) plus API and interface design, frontend engineering, debugging and error recovery, performance optimization, security hardening, and git workflow. Encodes the senior-engineer workflows and quality gates that keep agents shipping consistently.",
       "author": "Addy Osmani",
       "repo_url": "https://github.com/crew44-community/engineering-skills-by-addy-osmani",
@@ -55,7 +55,7 @@
     },
     {
       "id": "mattpocock-skills-agent",
-      "name": "Matt Pocock Skills",
+      "name": "Engineering Agent by Matt Pocock",
       "description": "A real-engineering agent bundling Matt Pocock's everyday skills — alignment grilling, TDD, bug diagnosis, PRD and issue authoring, architecture cleanup, and a shared domain language — for shipping production software with coding agents instead of vibe coding.",
       "author": "mattpocock",
       "repo_url": "https://github.com/crew44-community/mattpocock-skills-agent",
@@ -71,7 +71,7 @@
     },
     {
       "id": "product-management-skills",
-      "name": "Product Management Skills",
+      "name": "Product Management Agent",
       "description": "A marketplace of 65 product-management skills spanning discovery, strategy, execution, launch, and growth — assumption mapping, prioritization, PRDs and user stories, positioning and market sizing, metrics and north-star, A/B and cohort analysis, pricing and growth loops. Encodes proven PM frameworks (Torres, Cagan, Savoia) as guided step-by-step workflows for structured product decisions.",
       "author": "phuryn",
       "repo_url": "https://github.com/crew44-community/product-management-skills",
@@ -86,7 +86,7 @@
         "initial": "P",
         "color": "#8b5cf6"
       "id": "scientific-skills-by-k-dense",
-      "name": "Scientific Skills by K-Dense",
+      "name": "Scientific Agent by K-Dense",
       "description": "K-Dense's library of 140+ scientific and research skills that turn an AI agent into a research assistant — bioinformatics and genomics, cheminformatics and drug discovery, proteomics, clinical and precision medicine, medical imaging, materials science, physics and astronomy, and scientific machine learning — with curated library APIs, 100+ databases, and worked examples for reproducible multi-step research workflows.",
       "author": "K-Dense",
       "repo_url": "https://github.com/crew44-community/scientific-skills-by-k-dense",
