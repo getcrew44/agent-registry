@@ -1,6 +1,6 @@
 {
   "schema_version": "crew44.agent-registry.v1",
-  "updated_at": "2026-06-03T03:33:48Z",
+  "updated_at": "2026-06-03T03:33:53Z",
   "agents": [
     {
       "id": "engineering-skills-by-addy-osmani",
@@ -67,6 +67,24 @@
       "icon": {
         "initial": "M",
         "color": "#3178c6"
+      }
+    },
+    {
+      "id": "scientific-skills-by-k-dense",
+      "name": "Scientific Skills by K-Dense",
+      "description": "K-Dense's library of 140+ scientific and research skills that turn an AI agent into a research assistant — bioinformatics and genomics, cheminformatics and drug discovery, proteomics, clinical and precision medicine, medical imaging, materials science, physics and astronomy, and scientific machine learning — with curated library APIs, 100+ databases, and worked examples for reproducible multi-step research workflows.",
+      "author": "K-Dense",
+      "repo_url": "https://github.com/crew44-community/scientific-skills-by-k-dense",
+      "tags": [
+        "science",
+        "bioinformatics",
+        "research",
+        "data-analysis",
+        "chemistry"
+      ],
+      "icon": {
+        "initial": "S",
+        "color": "#10b981"
       }
     }
   ]
